@@ -10,7 +10,7 @@ Details of pressure fluctuation data:
 Time is obtained in seconds by substracting the first element of the first column from the entire first column.
 
 Data sets are given for different rates of change of airflow rates (g/s^2).
-data1: 0.1 g/s^2,
+data1: 0.1 g/s^2, (splitted into two parts data1a, and data1b)
 data2: 0.3 g/s^2,
 data3: 0.4 g/s^2,
 data4: 0.6 g/s^2,
